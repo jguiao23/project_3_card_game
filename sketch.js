@@ -274,9 +274,9 @@ function directions() {
   fill(255);
   noStroke();
   textSize(24);
-  text("Explain rule 1 here", width/2 - 400, height/2+200);
+  text("Use Spells to \nCounter \nYour Opponent", width/2 - 400, height/2+200);
   text("If tied, \nhighest \nnumber wins", width/2,       height/2+200);
-  text("Get to 5 Points\n before your\n opponent!", width/2 + 400, height/2+200);
+  text("Get to 5 Points\n to disintegrate\n your opponent!", width/2 + 400, height/2+200);
 
   // close button
   let bx = width / 2 + 450;
