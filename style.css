@@ -1,8 +1,19 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: rgb(94, 94, 94);
+  background-image: url(assets/4.png);
 }
-
+@font-face {
+  font-family: pixels;
+  src: url(assets/dogicapixel.ttf);
+}
+h1{
+  padding-top: 30px;
+  font-family: pixels;
+  text-align: center;
+  color: white;
+}
 canvas {
   padding-top: 100px;
   margin: auto;
