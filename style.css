@@ -8,7 +8,7 @@ html, body {
   font-family: pixels;
   src: url(assets/dogicapixel.ttf);
 }
-h1{
+h1,h2{
   padding-top: 30px;
   font-family: pixels;
   text-align: center;
